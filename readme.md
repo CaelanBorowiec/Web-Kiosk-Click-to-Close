@@ -18,4 +18,4 @@ You might want to use it with [CaelanBorowiec](https://github.com/CaelanBorowiec
 
 ## Demo
 
-See [demo.html](/blob/master/demo.html).
+See [demo.html](http://htmlpreview.github.io/?https://github.com/CaelanBorowiec/jQuery-Page-Interaction-Prompt/blob/master/demo.html).
