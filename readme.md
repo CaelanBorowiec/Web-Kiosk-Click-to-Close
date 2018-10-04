@@ -14,6 +14,7 @@ You might want to use it with [CaelanBorowiec](https://github.com/CaelanBorowiec
  2. Add the closearrow.png graphic to your layout.
  3. Update closearrow.css so it correctly points to your closearrow.png path.
  4. Add closearrow.css and mousemove.js to your project.
+ 5. Adjust timings for cooldown and fades in mousemove.js.
 
 ## Demo
 
