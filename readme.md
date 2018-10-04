@@ -10,8 +10,11 @@ You might want to use it with [CaelanBorowiec](https://github.com/CaelanBorowiec
 
 ## Setup
 
---
+ 1. Create an empty div with the id 'closearrow'.
+ 2. Add the closearrow.png graphic to your layout.
+ 3. Update closearrow.css so it correctly points to your closearrow.png path.
+ 4. Add closearrow.css and mousemove.js to your project.
 
 ## Demo
 
-See demo.html
+See [demo.html](/blob/master/demo.html).
