@@ -3,9 +3,9 @@ $( document ).ready(function() {
   $( "body" ).mousemove(function( event ) {
     if (!cooldown)
     {
-      alert("You can close things by clicking the X button, d'oh!");
+      $("#closearrow").fadeIn().delay(3000).fadeOut();
       cooldown = true;
-      setTimeout(resetCooldown, 15000)
+      setTimeout(resetCooldown, 10000)
     }
   });
 });
